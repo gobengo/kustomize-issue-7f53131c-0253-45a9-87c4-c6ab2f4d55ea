@@ -1,0 +1,6 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+bases:
+  - b2d771be-f1a8-4dfe-8e1e-941e73905ab0
+  - 2cbace6b-c9f0-4f56-aba7-b911c0c85d48
+
